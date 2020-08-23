@@ -1,2 +1,2 @@
 # Twitter-Sentiment-on-2016-Election-Candidates
-Project to scrape and label a training dataset of tweets related to sentiments towards Hilary Clinton and Donald Trump and predict sentiment towards them as election nears
+Project to scrape and predict twitter sentiment towards Hilary Clinton and Donald Trump during the 2016 election
